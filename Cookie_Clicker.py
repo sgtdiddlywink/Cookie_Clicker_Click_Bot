@@ -5,7 +5,7 @@ import time
 
 """Need to install the appropriate browser driver and place .exe in accessible file."""
 # Chrome driver path should reference the .exe browser driver.
-chrome_driver_path = "E:\Py Code\Development\chromedriver.exe"
+chrome_driver_path = "NEED TO ADD YOUR OWN PATH TO YOUR BROWSER EXE DRIVER"
 
 # Access the driver
 driver = webdriver.Chrome(executable_path=chrome_driver_path)
